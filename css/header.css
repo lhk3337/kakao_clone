@@ -1,0 +1,13 @@
+.top-header {
+  background-color: #472e32;
+  color: white;
+  padding: 5px 10px 15px 10px;
+}
+.top-header .header__top,
+.top-header .header__bottom {
+  display: flex;
+  justify-content: space-between;
+}
+.top-header .header__top {
+  margin-bottom: 15px;
+}
