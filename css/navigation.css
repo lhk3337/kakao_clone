@@ -6,13 +6,20 @@
   display: flex;
   justify-content: space-between;
   padding-top: 10px;
-}
-.tabp-bar .tab-bar__tab {
-  display: flex;
-  align-items: center;
-  flex-direction: column;
-  text-align: center;
+  padding-bottom: 5px;
 }
 .tap-bar .tab-bar__tab {
   display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-decoration: none;
+}
+.tab-bar .tab-bar__tab i {
+  display: block;
+  margin-bottom: 5px;
+  text-align: center;
+}
+
+.tab-bar .tab-bar__title {
+  font-size: 10px;
 }
