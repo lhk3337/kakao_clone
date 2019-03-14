@@ -8,7 +8,7 @@
   padding-top: 10px;
   padding-bottom: 5px;
 }
-.tap-bar .tab-bar__tab {
+.tab-bar .tab-bar__tab {
   display: flex;
   align-items: center;
   flex-direction: column;
